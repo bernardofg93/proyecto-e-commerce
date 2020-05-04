@@ -1,0 +1,35 @@
+body{
+    background-color: white;
+}
+
+.contenedor {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.entrada {
+    margin-bottom: 60px;
+}
+.entrada:last-of-type{
+    margin-bottom: 0;
+}
+.entrada img {
+    display: block;
+}
+@media (min-width: 480px){
+    .entrada img {
+        width: 300px;
+        float:left;
+        margin: 0 30px 0 0;
+    }
+}
+
+/** Contenedores Principal **/
+.contenido-principal{
+    margin-top: 40px;
+}
+.contenido-principal, 
+.sidebar {
+    padding: 20px;
+    
+}

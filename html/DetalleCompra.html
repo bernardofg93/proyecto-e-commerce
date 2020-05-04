@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Carrito</title>
+   
+    <link rel="stylesheet" href="../css/tableStyles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,300&display=swap" rel="stylesheet">
+
+  </head> 
+<body>
+  <div class="contenedor">
+		<header>
+      <h1 class="h1">Resumen de compra</h1>
+      <div>
+        
+        <input type="button" class="btn active"   onclick="location.href='./Productos.html'" value="Regresar a la tienda"></input>
+			</div>
+    </header>
+    
+		<main>
+			
+			<div class="error_box" id="error_box">
+				<p>Se ha producido un error.</p>
+			</div>
+			<table id="tabla" class="tabla">
+				<tr>
+       
+        <th>Imagen</th>
+        <th>Producto</th>
+        <th>Cantidad</th>
+        <th>Precio/u</th>
+        <th>Total/u</th>
+        </tr>
+        <tbody class="products">
+      
+        </tbody>
+        
+       
+        <td><p class="total">Total a pagar : <output id="output"></output></p></td>
+      
+			</table>
+		
+    <div class="pago">
+      <p>Realizar pago</p>
+    </div>
+    
+    <div class="paypal">
+   
+      <div id="paypal-button-container">
+        <script src="https://www.paypal.com/sdk/js?client-id=sb"></script>
+        <script>
+          
+          paypal.Buttons().render('#paypal-button-container');
+        </script>
+       
+			</div>
+    </div>
+  </div>
+</main>
+    
+
+    
+    
+
+  
+
+
+  
+   
+    <script src="../js/DetalleCompra.js"></script>
+    <script
+         src="https://www.paypal.com/sdk/js?client-id=SB_CLIENT_ID"> 
+       </script>
+  </body>
+
+</html>
+
+
+
+
+
+<!--<table id="tabla" class="tabla">
+    <thead >
+      <tr>
+        <th>#</th>
+        <th></th>
+        <th>Producto</th>
+        <th>Cantidad</th>
+        <th>Precio</th>
+      </tr>
+      
+    </thead>
+    <tbody class="products">
+      
+    </tbody>
+    
+   
+    <td><p class="total">Total : <output id="output"></output></p></td> --->

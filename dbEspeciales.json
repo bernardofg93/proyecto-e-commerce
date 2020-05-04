@@ -1,0 +1,38 @@
+[
+    {
+        "id": 50,
+        "name": "Cerveza minerva",
+        "image": "../img/chevepack1.jpeg",
+        "extraInfo": "ESPECIAL 16 PACK",
+        "price": 640.00
+    },
+    {
+        "id": 51,
+        "name": "Cerveza Barracuda",
+        "image": "../img/chevepack2.jpeg",
+        "extraInfo": "ESPECIAL 12 PACK",
+        "price": 430.00
+    },
+    {
+        "id": 52,
+        "name": "Cerveza Cerdo capital",
+        "image": "../img/chevepack3.jpeg",
+        "extraInfo": "ESPECIAL 6 PACK ",
+        "price": 220
+    },
+    {
+        "id": 53,
+        "name": "Cerveza Vaquita",
+        "image": "../img/chevepack4.jpeg",
+        "extraInfo": "ESPECIAL 12 PACK",
+        "price": 430
+    },
+    {
+        "id": 54,
+        "name": "Cerveza serda",
+        "image": "../img/chevepack5.jpeg",
+        "extraInfo": "ESPECIAL 12 PACK",
+        "price": 430
+    }
+    
+]

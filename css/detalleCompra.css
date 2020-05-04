@@ -1,0 +1,47 @@
+.resumen-Compra { 
+  color: black;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+
+  
+  
+  
+}
+.price {
+
+ text-align: end;
+  
+
+}
+.name {
+    text-align: center;
+}
+.tableProduct {
+    color: blue
+}
+.total  {
+  text-align: center;
+  margin-right: 110px;
+  font-weight: bold;
+  font-size: 25px;
+}
+.mxn {
+  text-align: end;
+  margin-right: 240px;
+  font-weight: bold;
+}
+
+.paypal-button-container{
+  align-items: center;
+}
+.paylal {
+ 
+}
+body {
+  align-items: center;
+}
+.pago p {
+  padding-bottom: 50px;
+  margin-bottom: 50px;
+}
+

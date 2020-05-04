@@ -1,0 +1,138 @@
+[
+    {
+        "id": 1,
+        "name": "Cerveza Plisner",
+        "image": "../img/plisner.jpg",
+        "stars": "../img/estrellas.png",
+        "extraInfo": "the original prisner",
+        "price": 45
+    },
+    {
+        "id": 2,
+        "name": "Cerveza Propaganda",
+        "image": "../img/propaganda.jpg",
+        "stars": "../img/estrellas.png",
+        "extraInfo": "Wunder Lager",
+        "price": 50
+    },
+    {
+        "id": 3,
+        "name": "Cerveza Kella",
+        "image": "../img/kella.jpg",
+        "stars": "../img/estrellas.png",
+        "extraInfo": "Cerveza Obscura",
+        "price": 90
+    },
+    {
+        "id": 4,
+        "name": "Cerveza Mala Pinta",
+        "image": "../img/mpinta.jpg",
+        "stars": "../img/estrellas.png",
+        "extraInfo": "Mala pinta artezana",
+        "price": 60
+    },
+    {
+        "id": 5,
+        "name": "Cerveza Lule",
+        "image": "../img/lule.jpg",
+        "stars": "../img/estrellas.png",
+        "extraInfo": "Pusner Lule",
+        "price": 70
+    },
+    {
+        "id": 6,
+        "name": "Cerveza Concordia",
+        "image": "../img/concordia_clara.jpg",
+        "stars": "../img/estrellas.png",
+        "extraInfo": "Lager Clara",
+        "price": 70
+    },
+    {
+        "id": 7,
+        "name": "Cerveza ABK das blaue",
+        "image": "../img/abk.jpg",
+        "stars": "../img/estrellas.png",
+        "extraInfo": "Hell Lager Beer",
+        "price": 90
+    },
+    {
+        "id": 8,
+        "name": "Cerveza Carces",
+        "image": "../img/carces.jpg",
+        "stars": "../img/estrellas.png",
+        "extraInfo": "Golden Pilsner",
+        "price": 55
+    },
+    {
+        "id": 9,
+        "name": "Cerveza Concordia",
+        "image": "../img/concordia.jpg",
+        "stars": "../img/estrellas.png",
+        "extraInfo": "Cerveza Lager",
+        "price": 50
+    },
+    {
+        "id": 10,
+        "name": "Cerveza Cristerra",
+        "image": "../img/cristerra.jpg",
+        "stars": "../img/estrellas.png",
+        "extraInfo": "Cerveza Artezanal",
+        "price": 80
+    },
+    {
+        "id": 11,
+        "name": "Cerveza Esmeralda",
+        "image": "../img/esmeralda.jpg",
+        "stars": "../img/estrellas.png",
+        "extraInfo": "Cerveza Clara",
+        "price": 45
+    },
+    {
+        "id": 12,
+        "name": "Cerveza Helium",
+        "image": "../img/helium.jpg",
+        "stars": "../img/estrellas.png",
+        "extraInfo": "Cerveza Pilsner",
+        "price": 50
+    },
+    {
+        "id": 13,
+        "name": "Cerveza minerva",
+        "image": "../img/chevepack1.jpeg",
+        "stars": "../img/estrellas.png",
+        "extraInfo": "ESPECIAL 16 PACK",
+        "price": 640.00
+    },
+    {
+        "id": 14,
+        "name": "Cerveza Barracuda",
+        "image": "../img/chevepack2.jpeg",
+        "stars": "../img/estrellas.png",
+        "extraInfo": "ESPECIAL 12 PACK",
+        "price": 430.00
+    },
+    {
+        "id": 15,
+        "name": "Cerveza Cerdo capital",
+        "image": "../img/chevepack3.jpeg",
+        "stars": "../img/estrellas.png",
+        "extraInfo": "ESPECIAL 6 PACK ",
+        "price": 220
+    },
+    {
+        "id": 16,
+        "name": "Cerveza Vaquita",
+        "image": "../img/chevepack4.jpeg",
+        "stars": "../img/estrellas.png",
+        "extraInfo": "ESPECIAL 12 PACK",
+        "price": 430
+    },
+    {
+        "id": 17,
+        "name": "Cerveza serda",
+        "image": "../img/chevepack5.jpeg",
+        "stars": "../img/estrellas.png",
+        "extraInfo": "ESPECIAL 12 PACK",
+        "price": 430
+    }
+]

@@ -1,0 +1,186 @@
+/* Nav */
+h1 {
+  text-align: center;
+}
+h4 {
+  font-size: 16px;
+  font-weight: 700;
+}
+header {
+  padding: 20px 0 0 0;
+  background: #111111;
+  text-align: right;
+  height: 80px;
+  margin: 0 auto;
+}
+body {
+  font-family: "Open Sans", Arial, Sans-serif;
+  font-size: 16px;
+  background: #f2f2f2;
+  
+}
+.nav{
+  margin: 0 auto;
+}
+
+.nav a {
+  display: inline;
+  font-size: 19px;
+  font-weight: 300;
+  margin-left: 100px;
+
+ font-family: "Open Sans", Arial, Sans-serif;
+ 
+
+}
+
+.items p {
+  background: black;
+}
+
+.fontColor a {
+  color: #eceff1;
+  text-decoration: none;
+  font-size: px;
+  font-weight: 500;
+  padding: 32.8px;
+
+
+}
+.fontColor a:hover {
+  background: #ffa000  ;
+  color: #111111;
+ 
+}
+/* Carrito nav */
+
+.submenu {
+  position: relative;
+
+
+  
+}
+.submenu img {
+ 
+}
+
+.submenu #carrito {
+  display: none;
+  text-align: center;
+  
+}
+
+.submenu:hover #carrito {
+  display: block;
+  position: absolute;
+  right: 0;
+
+  top: 100%;
+  z-index: 1;
+  background: #fff;
+  
+ 
+  min-height: 400px;
+  min-width: 400px;
+  border: 1px solid #111111;
+}
+
+#carrito p{
+  
+  text-align: center;
+  justify-content: center;
+  margin: 0 auto;
+  font-size: 15px;
+  margin-top: 25px;
+
+}
+/* codigo dentro del carrito */
+
+.botonclick {
+  background-color: #004d40   ;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 50px;
+  font-size: 15;
+  align-items: center;
+  height: 35px;
+  width: 35px;
+  align-items: center;
+  margin-top: 20px;
+  border: none;
+}
+
+.botonDeleteCar {
+  background-color: black;
+  font-weight: bold;
+  color: whitesmoke;
+  border-radius: 50px;
+  height: 35px;
+  width: 35px;
+  margin-top: 20px;
+  border: 1px solid;
+}
+.btnCompra {
+  width: 100%;
+  margin: 0 auto;
+  background: #ffa000 ;
+  color: #111111  ;
+  text-decoration: none;
+  border: none;
+  padding: 15px;
+  border-radius: 1px;
+  cursor: pointer;
+  font-weight: bold;
+  
+}
+
+.btnCompra:hover{
+  background: #111111 ;
+  color: #ffa000;
+ 
+}
+
+button[type="button"]:hover{
+  background: #111111  ;
+  color: #ffa000;
+}
+
+
+/* Productos */
+
+.product-container {
+  /*separa el contenedor un producto de otro*/
+  padding: 10px;
+}
+
+.card-body p {
+  text-align: center;
+}
+
+.cart-product-info {
+  background: #111111;
+}
+
+.btn-cart {
+  background-color:#ffa000 ;
+  font-weight: bold;
+  color: #111111  ;
+  border-radius: 4px;
+  height: 60px;
+  font-size: 15px;
+  width: 100%;
+}
+
+
+/* especiales */
+.title-promo {
+  background: black;
+  height: 100px;
+  
+  
+}
+.cart {
+  margin-right: 200px;
+}
+
+
